@@ -10,4 +10,5 @@ La sécurité de la population n'est pas a prendre à la rigolade. Les données 
 * ➡️ 7.2 M Bulletins scolaires & 400.000 ASSR2 /(ASSR1?)
 * ➡️ Informations scolaires + bulletins
 * ➡️ Informations de suivi pédagogique
-Sources : https://frenchbreaches.com/alertes/educonnect-mnw545yji0dchbbduil
+* Sources : https://frenchbreaches.com/alertes/educonnect-mnw545yji0dchbbduil
+* https://educonnect.education.gouv.fr/educt-aide/violation_donnees_educonnect.html
