@@ -1,2 +1,1 @@
-# breachedfrance
-Informer réellement la population sur les fuites de données. En cause du manque de sécurité et la France n'est pas OPEN SOURCE 
+# Voici la liste des fuites de données majeurs en France (services publiques + sociétés privés)
