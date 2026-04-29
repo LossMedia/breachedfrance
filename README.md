@@ -6,8 +6,8 @@ Pour un enième fois, la France a subit une fuite de donnée majeur, et cette fo
 La sécurité de la population n'est pas a prendre à la rigolade. Les données fuités peuvent engendrer des spams, donc assez souvent des arnaques et/ou des usurpations d'identiés.
 
 **Donnée compromises : **
-➡️ PII : Nom, prénom, adresse mail, établissement, numéro de téléphone...
-➡️ 7.2 M Bulletins scolaires & 400.000 ASSR2 /(ASSR1?)
-➡️ Informations scolaires + bulletins
-➡️ Informations de suivi pédagogique
+*➡️ PII : Nom, prénom, adresse mail, établissement, numéro de téléphone...
+*➡️ 7.2 M Bulletins scolaires & 400.000 ASSR2 /(ASSR1?)
+*➡️ Informations scolaires + bulletins
+*➡️ Informations de suivi pédagogique
 Sources : https://frenchbreaches.com/alertes/educonnect-mnw545yji0dchbbduil
