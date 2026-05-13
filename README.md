@@ -1,5 +1,8 @@
 # Voici la liste des fuites de données majeurs en France (services publiques + sociétés privés)
 
+## 13 mai 2026 : Fuite de données mineur de MistralAI (société privée):
+https://www.tomshardware.com/tech-industry/cyber-security/compromised-mistral-ai-and-tanstack-packages-may-have-exposed-github-cloud-and-ci-cd-credentials-in-mini-shai-hulud-malware-infection-supply-chain-campaign-spreads-across-npm-and-ai-developer-ecosystems-like-wildfire
+
 ## 24 avril 2026 : Fuite de données majeur __EDUCONNECT__
 Nombre de victimes impactées : ~3.5 millions de personnes.
 Pour une enième fois, la France a subit une fuite de donnée majeur, et cette fois-ci concernant les élèves français.
